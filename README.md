@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anderson A. Viana</h1>
 <h3 align="center">Desenvolvedor Full Stack PHP e MySql</h3>
 
-<p>https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub</p>
+<p><img src=https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avianarocket&label=Profile%20views&color=0e75b6&style=flat" alt="avianarocket" /> </p>
 
